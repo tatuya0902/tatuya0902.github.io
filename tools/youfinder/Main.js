@@ -9,8 +9,8 @@ let GBase = null,
 
 DOM.importAPI("https://genbuproject.github.io/Programs/Sync Helper/Sync Helper v1.1.js", function () {
 	GBase = new GoogleAPI({
-		ID: "860614012047-1jqr0777jrjsnq9tt73b38mkm748u35e.apps.googleusercontent.com",
-		Key: atob("Q2U2Qk5uQUlpaGxrVnB0eWgyRVd5V1I3"),
+		ID: "37140595839-e24igu4eqmea2s02kc51ctb9j77as6nv.apps.googleusercontent.com",
+		Key: atob("eWRoMlBxZzJIV0V3U0duWmNfb3o4R0hV"),
 
 		Url: "https://tatuya0902.github.io/tools/youfinder/Top.html"
 	});
