@@ -5,6 +5,10 @@ window.addEventListener("DOMContentLoaded", () => {
 		});
 	});
 
+	DOM('@Dialog').forEach((dialog) => {
+		dialogPolyfill.registerDialog(dialog);
+	});
+
 
 
 	DOM("#Dialogs_UnauthorizedNotify_Btns_OK").addEventListener("click", function () {
